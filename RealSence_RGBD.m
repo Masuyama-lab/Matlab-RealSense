@@ -129,10 +129,4 @@ imshow(capturedRGB);
 end
 
 
-% Save RGBD data
-data = [X, Z, -Y, rgb_data];
-save data230400 data
-save capturedRGB capturedRGB
-
-
 
