@@ -10,7 +10,7 @@ https://dev.intelrealsense.com/docs/post-processing-filters <br>
 * Matlab R2018b
 
 ## Getting Started
-Install RealSense SDK2.0 for Matlab and confirm that _realsense.pipeline_ is worked.
+Install RealSense SDK2.0 for Matlab and confirm that _realsense.pipeline_ is worked on your PC.
 https://github.com/IntelRealSense/librealsense/tree/master/wrappers/matlab
 
 Run "RealSence_RGBD.m".
