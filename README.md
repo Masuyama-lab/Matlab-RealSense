@@ -8,7 +8,7 @@ Capturing RGBD image by Intel RealSense D435i with RealSense SDK2.0 for Matlab.
 * Matlab R2018b
 
 ## Getting Started
-Install RealSense SDK2.0 for Matlab and confirm that realsense.pipeline is worked.
+Install RealSense SDK2.0 for Matlab and confirm that _realsense.pipeline_ is worked.
 https://github.com/IntelRealSense/librealsense/tree/master/wrappers/matlab
 
 Run "RealSence_RGBD.m".
