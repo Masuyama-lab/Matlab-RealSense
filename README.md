@@ -4,6 +4,8 @@
 Capturing RGBD image by Intel RealSense D435i with RealSense SDK2.0 for Matlab.
 
 ## Requirement
+* windows 10
+* Matlab2018b
 
 
 https://github.com/IntelRealSense/librealsense/tree/master/wrappers/matlab
