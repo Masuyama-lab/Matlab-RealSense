@@ -3,8 +3,8 @@
 
 Capturing RGBD image by Intel RealSense D435i with RealSense SDK2.0 for Matlab.
 
-## Requirement
-* windows 10
+## Confirmed Environments
+* Windows 10
 * Matlab2018b
 
 
