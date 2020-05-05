@@ -1,4 +1,4 @@
-# Matlab code for capturing RGBD image by Intel RealSense D435i.
+# Matlab code for capturing RGBD image by Intel RealSense D435i
 
 Capturing RGBD image by Intel RealSense D435i with RealSense SDK2.0 for Matlab. <br>
 Due to samples of RealSense SDK2.0 for Matlab are not enough provided, this code may not be optimized.  <br>
