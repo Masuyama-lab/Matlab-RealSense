@@ -1,11 +1,9 @@
 # Matlab code for capturing RGBD image by Intel RealSense D435i.
 
-Capturing RGBD image by Intel RealSense D435i with RealSense SDK2.0 for Matlab.
-
-Due to samples of RealSense SDK2.0 for Matlab are not enough provided, this code may not be optimized. 
-
-Please refer to _Post-processing filters_ on the official website for further information.
-https://dev.intelrealsense.com/docs/post-processing-filters
+Capturing RGBD image by Intel RealSense D435i with RealSense SDK2.0 for Matlab. <br>
+Due to samples of RealSense SDK2.0 for Matlab are not enough provided, this code may not be optimized.  <br>
+Please refer to _Post-processing filters_ on the official website for further information. <br>
+https://dev.intelrealsense.com/docs/post-processing-filters <br>
 
 ## Development Environments
 * Windows 10
